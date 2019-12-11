@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="10.521499">
+<testcase classname="Wales user Journey test" name="Verify that a user can check if there are eligible for treatment or not" time="10.521499">
+<system-out><![CDATA[Given I am a person from Wales..............................................passed
+When I input my circumstances into the checker tool.........................passed
+Then I should get a result of whether I will get help or not................passed
+]]></system-out>
+</testcase>
+</testsuite>
